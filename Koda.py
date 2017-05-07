@@ -1,12 +1,3 @@
-
-import csv
-
-import numpy as np
-import matplotlib.pyplot as plt
-from datetime import datetime
-from scipy.stats import multivariate_normal as mvn
-from scipy.stats import beta
-
 from csv import DictReader
 import pandas as pa
 
