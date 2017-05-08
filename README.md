@@ -1,5 +1,7 @@
 # PR17NKSE
 
+Podatki so osnovni podatki , ponesrečene 1, 2 , drugi podatki
+
 Največ poškodb od 9:30 - 16:00 vendar je med 12:30 in 13:40 malo manj poškodb verjetno zaradi kosila oz malice ob 10:30 -10:50.
 čase bi bilo dobro spremeniti v 30-15 min intervale.
 
@@ -16,3 +18,5 @@ Starejši od 30 imajo večjo možnost hujše poškodbe?
 Mlajši se medseboj več zaletavajo oz je vsaj 1 mlad bil prisoten pri trku (mlajši do 25-30 let?)
 
 Podatke je potrebno veliko še obdelati da bodo primernejši.
+
+
