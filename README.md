@@ -1,13 +1,13 @@
 # Smučarske nesreče 2013-2016
-
+<div>
 Podatki so osnovni podatki , ponesrečene 1, 2 , drugi podatki.
-
-Temperatura presega čez 30°C in tudi pod -30°C to se zdi za ta leti čas preveč zato jih bo treba odstraniti.
-Veliko podatkov je zapisanih z številom in besedilom , drugi pa imajo samo število ali samo besedilo to bo treba odpraviti
-Nekatera polja imajo znak / oz nekaj neznanega to bi bilo terba odstraniti.
-Nekateri ponesrečenci se še niso rodili... ali pa so rojeni leta 1000
-Čase bi bilo dobro spremeniti v 30-15 min intervale.
-
+</div>
+<p>Temperatura presega čez 30°C in tudi pod -30°C to se zdi za ta leti čas preveč zato jih bo treba odstraniti.</p>
+<p>Veliko podatkov je zapisanih z številom in besedilom , drugi pa imajo samo število ali samo besedilo to bo treba odpraviti</p>
+<p>Nekatera polja imajo znak / oz nekaj neznanega to bi bilo terba odstraniti.</p>
+<p>Nekateri ponesrečenci se še niso rodili... ali pa so rojeni leta 1000</p>
+<p>Čase bi bilo dobro spremeniti v 30-15 min intervale.
+</p>
 
 #### Opažanja
 <div>
