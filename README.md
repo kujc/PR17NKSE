@@ -18,7 +18,7 @@ Podatki so osnovni podatki , ponesrečene 1, 2 , drugi podatki.
 </ul>
 </div>
 
-
+<img src="slike/people.png" style="width:500;height:400;">
 Podatke je potrebno veliko še obdelati da bodo primernejši.
 
 
