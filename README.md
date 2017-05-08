@@ -2,7 +2,7 @@
 
 Podatki so osnovni podatki , ponesrečene 1, 2 , drugi podatki.
 
-Največ poškodb od 9:30 - 16:00 vendar je med 12:30 in 13:40 malo manj poškodb verjetno zaradi kosila oz malice ob 10:30 -10:50.
+Največ poškodb od 9:30 - 16:00 vendar je med 12:30 in 13:40 malo manj poškodb verjetno zaradi kosila in malice ob 10:30 -10:50.
 čase bi bilo dobro spremeniti v 30-15 min intervale.
 
 Temperatura presega čez 30°C in tudi pod -30°C to se zdi za ta leti čas preveč zato jih bo treba odstraniti.
