@@ -12,3 +12,7 @@ Nekatera polja imajo znak / oz nekaj neznanega to bi bilo terba odstraniti.
 Nekateri ponesrečenci se še niso rodili... ali pa so rojeni leta 1000
 
 Starejši od 30 imajo večjo možnost hujše poškodbe?
+
+Mlajši se medseboj več zaletavajo oz je vsaj 1 mlad bil prisoten pri trku (mlajši do 25-30 let?)
+
+Podatke je potrebno veliko še obdelati da bodo primernejši.
