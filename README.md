@@ -1,4 +1,4 @@
-# Smucaske nesreče 2013-2016
+# Smučarske nesreče 2013-2016
 
 Podatki so osnovni podatki , ponesrečene 1, 2 , drugi podatki.
 
