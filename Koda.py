@@ -102,4 +102,23 @@ def temperatura(t): #Odstrani temperature nad 40 in pod 40
 
 def zapisidat():
     SmucNes.to_csv("Output.csv")
+    
+    
+    
+ ## datoteko sem ročno malo obdelal. odstranil nekatere vrednosti v že obdelanih stolpich in odstranil en stolpec
+## prvi del kode je enak za branje datoteke in delna priprava
+
+def county():     ## popravi države da bodo vse imele enako zapisane
+    st=0
+    for i in SmucNes[titles[6]]:
+        if len(i) > 0:
+            i = i.lower().title()
+            SmucNes.set_value(st, titles[6], i)
+        st += 1
+
+
+def zapisidat():
+    SmucNes.to_csv("OutputV1.2.csv")
+
+
 
