@@ -19,19 +19,24 @@ Nekateri ponesrečenci so bili rojeni leta 1000 sva jih popravil oz odstranil (b
 #### Opažanja
 <div>
 <ul>
-  <li>Največ poškodb od 9:30 - 16:00 vendar je med 12:30 in 13:30 malo manj poškodb verjetno zaradi kosila in malice ob 10:30-11:00.</li>
   <li>Starejši od 30 imajo večjo možnost hujše poškodbe?</li>
   <li>Mlajši se medseboj več zaletavajo oz je vsaj 1 mlad bil prisoten pri trku (mlajši do 25-30 let?)</li>
 </ul>
 </div>
-<img src="slike/destribucija_starost.png" style="width:500;height:400;">
-<img src="slike/40-60_age_closerlook.png" style="width:500;height:400;">
+Pri pogledu na to sliko opazimo da je nesrež izredno veliko men maljšimi (oz neiskušenimi). Hujše poškodbe zelo počasi narašajo. Slika kaše da mlajši je večjo šanso ima da se huje poškoduje vendar predvidevam da to samo zaradi pomankanjo podatkov v tistih letih.
+<img src="slike/destribucija_starost.png" style="width:350;height:250;">
+Tukaj sem si bližje pogledal ljudi ki so smučali in so bili rojeni 40-60 , ker je zgledalo da se hitreje poškoduejo. Res je starejši se malo hitreje Hujše poškodujejo če se poškodujejo.
+<img src="slike/40-60_age_closerlook.png" style="width:350;height:250;">
 
+Ta graf prikazuje da se več Hujših nesreč zgodi ob spremembi vremena 3-4 rahlo, pretežno oblačno. Verjento zaradi spremembe svetlobe in človek ne opazi dovolj hitro da se je stemnilo.
 <img src="slike/dis_vreme2.png" style="width:500;height:400;">
+
+Zelo trd in mehak sneg sta dokaj nevarna za Hujše poškodbe . Navaden-kompakten sneg pa je pričakovan sneg na smučičih
 <img src="slike/dis_sneg_relativ.png" style="width:500;height:400;">
 
+V pogled kdaj se dogaja naveč nesreč. največ nesreč se dogaja pred kosilo verjetno utrujenost in ljudje postajajo lačni in nestrpni. večina hujših nesreč se zgodi 10:00, 11:00-12:00, pogosto se pa zgodijo tudi po kosilu(14:00) nato pa se veliko ljudi začne odpravljati domov. Ob 16:00 je zelo veliko Hujših nesreč verjetno ker so smučišča bolj prosta in so hitrosti večje in manj svetlobe.
 
-<img src="slike/dis_vreme2.png" style="width:500;height:400;">
-Podatke je potrebno veliko še obdelati da bodo primernejši.
+<img src="slike/čas_day.png" style="width:500;height:400;">
+
 
 
