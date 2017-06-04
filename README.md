@@ -67,7 +67,7 @@ V pogled kdaj se dogaja naveč nesreč. največ nesreč se dogaja pred kosilo ve
  <td>kNN</td><td>44.226</td><td>6.650</td><td>4.208</td><td>-0.117</td> 
  </tr>
    <tr>
- <td>Random Forest</td><td>45.126</td> <td>6.718</td><td>4.184</td><td>-0.140/td>
+ <td>Random Forest</td><td>45.126</td> <td>6.718</td><td>4.184</td><td>-0.140</td>
  </tr>
  </table>
 Kot vidite v tabeli je bilo neuspešno oz zelo nenatančo
