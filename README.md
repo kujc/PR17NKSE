@@ -1,16 +1,20 @@
 # Smučarske nesreče v sloveniji(2013-2016)
-<div>
-Datum nesreče Ura nesreče, Udeleženec LETNICA ROJSTVA, Udeleženec država, Udeleženec ravnanje pred nesrečo
-Vreme Vidljivost Temperatura Vrsta snega Veter
+Podatki v datoteki so:
+```
+Datum nesreče Ura nesreče, Udeleženec LETNICA ROJSTVA, Udeleženec država, Udeleženec ravnanje pred nesrečo,
+Vreme, Vidljivost, Temperatura, Vrsta snega, Veter,
 Telesna poškodba
-in še nekaj podatkov.
-</div>
-<p>Temperatura presega čez 30°C in tudi pod -30°C to se zdi za ta leti čas preveč zato jih bo treba odstraniti.</p>
-<p>Veliko podatkov je zapisanih z številom in besedilom , drugi pa imajo samo število ali samo besedilo to bo treba odpraviti</p>
-<p>Nekatera polja imajo znak / oz nekaj neznanega to bi bilo terba odstraniti.</p>
-<p>Nekateri ponesrečenci se še niso rodili... ali pa so rojeni leta 1000</p>
-<p>Čase bi bilo dobro spremeniti v 30-15 min intervale.
-</p>
+in še.
+```
+
+###### Spremembe na podatkih
+```
+Temperatura nad 40°C in pod -40°C sva odstranil iz podatkov.
+Veliko podatkov je bilo zapisanih z številom in besedilom , drugi pa imajo samo število ali samo besedilo to sem odpravil da sva postavil samo števila
+Nekateri ponesrečenci so bili rojeni leta 1000 sva jih popravil oz odstranil (bila sta 2)
+Čase sva spremenila v 30 min intervale.
+```
+
 
 #### Opažanja
 <div>
@@ -20,8 +24,14 @@ in še nekaj podatkov.
   <li>Mlajši se medseboj več zaletavajo oz je vsaj 1 mlad bil prisoten pri trku (mlajši do 25-30 let?)</li>
 </ul>
 </div>
+<img src="slike/destribucija_starost.png" style="width:500;height:400;">
+<img src="slike/40-60_age_closerlook.png" style="width:500;height:400;">
 
-<img src="slike/people.png" style="width:500;height:400;">
+<img src="slike/dis_vreme2.png" style="width:500;height:400;">
+<img src="slike/dis_sneg_relativ.png" style="width:500;height:400;">
+
+
+<img src="slike/dis_vreme2.png" style="width:500;height:400;">
 Podatke je potrebno veliko še obdelati da bodo primernejši.
 
 
